@@ -1,7 +1,9 @@
 # Bootstrap-CLJS
 ----------------
-[![Clojars Project](http://clojars.org/bootstrap-cljs/latest-version.svg)](http://clojars.org/bootstrap-cljs)
+[![Clojars Project](http://clojars.org/bootstrap-cljs/latest-version.svg)](http://clojars.org/solussd/bootstrap-cljs)
 ----------------
+
+Note: This fork exists because the latest published version of the upstream repo is broken
 
 Bootstrap CLJS is a wrapper around [React Bootstrap](http://github.com/react-bootstrap), inspired by, and in fact largely implemented using [om-tools](https://github.com/Prismatic/om-tools). This means that you can use React Bootstrap components using the same syntax as you'd use with `om-tools.dom`, giving you the following benefits, as directly quoted from their README file:
 
